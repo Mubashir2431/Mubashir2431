@@ -14,8 +14,6 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I'm the first in my family to go to university, and I got to the US on scholarships.
-
 ## 🧩 Featured Projects
 
 * **Freightly.ai** — Voice-first AI agent for owner-operator truck drivers that finds, chains, and negotiates freight loads on the driver's own credentials.
