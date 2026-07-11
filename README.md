@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,25:4F46E5,50:6366F1,75:8B5CF6,100:0F0524&height=220&section=header&text=Mubashir%20Panjwani&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%20%7C%20%20AI%20%2F%20ML%20%20%7C%20%20Co-Founder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0369A1,50:0284C7,75:0EA5E9,100:020617&height=220&section=header&text=Mubashir%20Panjwani&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%20%7C%20%20AI%20%2F%20ML%20%20%7C%20%20Co-Founder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Mubashir2431">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=720&height=60&lines=Software+Engineer;AI+%2F+ML+Engineer;Co-Founder+%40+feightly.ai;CS+%2B+Mathematics+%40+Drexel+University;Building+AI+for+Logistics+%26+Markets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=720&height=60&lines=Software+Engineer;AI+%2F+ML+Engineer;Co-Founder+%40+feightly.ai;CS+%2B+Mathematics+%40+Drexel+University;Building+AI+for+Logistics+%26+Markets" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Drexel_University-CS_%2B_Mathematics-4F46E5?style=for-the-badge&logo=academia&logoColor=white" alt="Drexel University"/>
-<img src="https://img.shields.io/badge/GPA-3.94_%2F_4.00-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" alt="GPA"/>
-<img src="https://img.shields.io/badge/Presidential_Scholar-Drexel-6366F1?style=for-the-badge&logo=star&logoColor=white" alt="Presidential Scholar"/>
-<img src="https://img.shields.io/badge/STAR_Scholar-Research-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white" alt="STAR Scholar"/>
+<img src="https://img.shields.io/badge/Drexel_University-CS_%2B_Mathematics-0369A1?style=for-the-badge&logo=academia&logoColor=white" alt="Drexel University"/>
+<img src="https://img.shields.io/badge/GPA-3.94_%2F_4.00-0EA5E9?style=for-the-badge&logo=bookstack&logoColor=white" alt="GPA"/>
+<img src="https://img.shields.io/badge/Presidential_Scholar-Drexel-0284C7?style=for-the-badge&logo=star&logoColor=white" alt="Presidential Scholar"/>
+<img src="https://img.shields.io/badge/STAR_Scholar-Research-38BDF8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="STAR Scholar"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Philadelphia,_PA-United_States-1a1a2e?style=flat-square&labelColor=4F46E5" alt="Location"/>
+<img src="https://img.shields.io/badge/📍_Philadelphia,_PA-United_States-1a1a2e?style=flat-square&labelColor=0369A1" alt="Location"/>
 
 <br/><br/>
 
 <a href="https://portfolio-site-six-ecru.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/mubashir-moosa-panjwani-2237503b4">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:mp3887@drexel.edu">
-  <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Mubashir2431">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -34,12 +34,12 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mubashir2431&style=flat-square&color=8b5cf6&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Mubashir2431&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile Views"/>
 <a href="https://github.com/Mubashir2431?tab=followers">
-  <img src="https://img.shields.io/github/followers/Mubashir2431?style=flat-square&logo=github&color=8B5CF6&labelColor=0D1117&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Mubashir2431?style=flat-square&logo=github&color=0EA5E9&labelColor=0D1117&label=Followers" alt="Followers"/>
 </a>
 <a href="https://github.com/Mubashir2431/star-eeg/stargazers">
-  <img src="https://img.shields.io/github/stars/Mubashir2431/star-eeg?style=flat-square&logo=github&color=A78BFA&labelColor=0D1117&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/Mubashir2431/star-eeg?style=flat-square&logo=github&color=38BDF8&labelColor=0D1117&label=Stars" alt="Stars"/>
 </a>
 
 </div>
@@ -312,12 +312,12 @@ Co-founded a social media and export venture before beginning studies in the US.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mubashir2431&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github&border_radius=10" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=Mubashir2431&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=8B5CF6&dates=8B949E&stroke=6366F1&border_radius=10" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mubashir2431&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github&border_radius=10" width="49%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=Mubashir2431&hide_border=true&background=0D1117&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=0EA5E9&dates=8B949E&stroke=0284C7&border_radius=10" width="49%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir2431&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&border_radius=10" width="42%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir2431&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&border_radius=10" width="42%" alt="Top Languages"/>
 
 </div>
 
@@ -327,11 +327,12 @@ Co-founded a social media and export venture before beginning studies in the US.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mubashir2431&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mubashir2431&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=8" alt="GitHub Trophies"/>
 
 </div>
 
 ---
+
 
 ## 🐍 Contribution Snake
 
@@ -387,7 +388,7 @@ open_to:
   <img src="https://img.shields.io/badge/GitHub-Mubashir2431-1a1a2e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://portfolio-site-six-ecru.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=vercel&logoColor=8B5CF6" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Live-1a1a2e?style=for-the-badge&logo=vercel&logoColor=0EA5E9" alt="Portfolio"/>
 </a>
 
 </div>
@@ -398,6 +399,6 @@ open_to:
 
 ### *"Engineering at the intersection of intelligence, markets, and real-world systems."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,25:4F46E5,50:6366F1,75:8B5CF6,100:0F0524&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0369A1,50:0284C7,75:0EA5E9,100:020617&height=140&section=footer" width="100%"/>
 
 </div>
