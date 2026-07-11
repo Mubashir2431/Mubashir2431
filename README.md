@@ -333,16 +333,6 @@ Co-founded a social media and export venture before beginning studies in the US.
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubashir2431&custom_title=Contribution+Activity&bg_color=0D1117&color=A78BFA&line=6366F1&point=8B5CF6&area=true&area_color=4F46E5&hide_border=true&radius=10" width="95%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
