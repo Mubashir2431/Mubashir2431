@@ -327,7 +327,7 @@ Co-founded a social media and export venture before beginning studies in the US.
 
 <div align="center">
 
-<img src="https://github-profile-trophy-alpha-seven.vercel.app/?username=Mubashir2431&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=8" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-nine-nu.vercel.app/?username=Mubashir2431&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=8" alt="GitHub Trophies"/>
 
 </div>
 
