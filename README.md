@@ -312,12 +312,12 @@ Co-founded a social media and export venture before beginning studies in the US.
 
 <div align="center">
 
-<img src="https://github-readme-stats-hlf0367uy-mubashir2431s-projects.vercel.app/api?username=Mubashir2431&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github&border_radius=10" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-zeta-six-73.vercel.app/api?username=Mubashir2431&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github&border_radius=10" width="49%" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com?user=Mubashir2431&hide_border=true&background=0D1117&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=0EA5E9&dates=8B949E&stroke=0284C7&border_radius=10" width="49%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-hlf0367uy-mubashir2431s-projects.vercel.app/api/top-langs/?username=Mubashir2431&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&border_radius=10" width="42%" alt="Top Languages"/>
+<img src="https://github-readme-stats-zeta-six-73.vercel.app/api/top-langs/?username=Mubashir2431&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&border_radius=10" width="42%" alt="Top Languages"/>
 
 </div>
 
